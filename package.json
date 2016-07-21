@@ -1,0 +1,10 @@
+{
+  "name": "devtooltoolbox",
+  "title": "Devtool Toolbox",
+  "id": "andrzej@lcode.pl",
+  "version": "0.0.1",
+  "description": "Export PHPStorm rest client xml,",
+  "main": "lib/main.js",
+  "author": "Andrzej Lipka",
+  "license": "New BSD License"
+}

@@ -1,0 +1,44 @@
+<RestClientRequest>
+  <option name="biscuits">
+    <list>
+      <Biscuit>
+        <option name="date" value="1468520015225" />
+        <option name="domain" value="localhost:8080" />
+        <option name="name" value="cok" />
+        <option name="path" value="/" />
+        <option name="value" value="1" />
+      </Biscuit>
+      <Biscuit>
+        <option name="date" value="-1" />
+        <option name="domain" value="localhost:8080" />
+        <option name="name" value="cok2" />
+        <option name="path" value="/" />
+        <option name="value" value="2" />
+      </Biscuit>
+    </list>
+  </option>
+  <option name="httpMethod" value="POST" />
+  <option name="urlBase" value="http://localhost:8080/resources" />
+  <option name="urlPath" value="" />
+  <option name="headers">
+    <list>
+      <KeyValuePair>
+        <option name="key" value="Accept" />
+        <option name="value" value="*/*" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="Cache-Control" />
+        <option name="value" value="no-cache" />
+      </KeyValuePair>
+    </list>
+  </option>
+  <option name="parameters">
+    <list />
+  </option>
+  <option name="parametersEnabled" value="true" />
+  <option name="haveTextToSend" value="true" />
+  <option name="haveFileToSend" value="false" />
+  <option name="isFileUpload" value="false" />
+  <option name="textToSend" value="CONTENT_TEXT" />
+  <option name="filesToSend" value="" />
+</RestClientRequest>
